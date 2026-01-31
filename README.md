@@ -1,3 +1,4 @@
+
 1️⃣ https://github.com → "New" (vert +)
 2️⃣ Repository name: gfly01-iptv
 3️⃣ Public → "Create repository"
@@ -25,7 +26,7 @@ README.md (optionnel)
 # Playlist gfly01 - Québec Full Pack 2026 (PIN: 6969)
 # Clé Accès: SHA256:cfiBezsLvSOsNObXOLVlqxRQZNeR31vlIiTcMYnWPec
 #EXT-X-VERSION:3
-# Login: gfly02 / full_pack_2026
+
 
 #EXTINF:-1 tvg-id="ICI_RDI" tvg-name="🔴 ICI RDI Québec" tvg-logo="https://i.imgur.com/rdilogo.png" group-title="Québec News",🔴 ICI RDI
 https://rdiquebec-lh.akamaihd.net/i/ICI_RDI_Quebec_1@201378/master.m3u8
